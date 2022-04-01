@@ -1,0 +1,68 @@
+ img {
+ 	width: 300px;
+    border-radius: 15px;
+ }
+ body{
+ 	text-align: center;
+    background-color: peachpuff;
+    font-family: Arial;
+
+ }
+ h1 {
+ 	color: white;
+    border-radius: 15px;
+    background-color: orangered;
+ }
+ h2 {
+ 	background-color: orangered;
+    border-radius: 15px;
+    color: white;
+ }
+ h3{
+    color: white;
+ }
+ a {
+ 	text-decoration: none;
+ 	color: white;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgba(305, 30, 30, 0.4);
+ }
+ .encart{
+    width: 500px;
+    background-color: lightcoral;
+    border-radius: 15px;
+    margin: 50px auto;
+    box-shadow: 5px 10px 30px rgba(195, 38, 0, 0.4);
+    padding: 20px ;
+ }
+#blog{
+    background-color: orangered;
+    border-radius: 15px;
+    padding: 10px;
+}
+#blog:hover{
+    color: orangered;
+    background-color: peachpuff;
+}
+p{
+    color: white;
+}
+ul{
+    list-style: none;
+}
+#RS{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+}
+.link{
+    margin: 10px;
+}
+
+#riz{
+    display:  flex;
+}
+
+#pâtes{
+    display: flex
+}
